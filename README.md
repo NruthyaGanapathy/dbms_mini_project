@@ -9,7 +9,6 @@ The cashier manages the payment process.
        
                                                            LOGIN PAGE
 Pharmacy Management System has a login page with 3 fields : username, password and select position.
-
 Username, password and position will be given by the admin. Only the registered users approved by the admin can login to the page in order to maintain the safety and security of the stocks and payments in pharmacy. 
 
 ![loginpage](https://user-images.githubusercontent.com/70790665/102995069-486c0c80-4546-11eb-85fe-e6e0064cfd7b.png)
