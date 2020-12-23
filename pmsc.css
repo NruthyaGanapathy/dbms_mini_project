@@ -1,0 +1,45 @@
+body
+{
+        border-style: groove;
+        border-width: 10px;;
+       border-radius: 60px;
+        border-color: green;
+	margin: 400;
+	padding: 0;
+        position: auto;
+    font-family: sans-serif;
+    form {border: 5px solid #f1f1f1;};
+    text-align: center;
+}
+button
+{
+     background-color: #4CAF50;
+     color: white;
+     padding: 14px 20px;
+     margin: 8px 0;
+     border-style: none;
+     cursor: pointer;
+     width: 30%;
+     text-align: center;
+}
+.login
+{
+    font-family: sans-serif;
+    
+}
+input
+{
+    width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  text-align: center;
+}
+select
+{
+    width: 200px;
+    padding: 5px;
+    text-align: center;
+}
