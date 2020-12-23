@@ -5,3 +5,4 @@ Admin modules provides a username and password for manager, pharmacist and cashi
 Pharmacist gives the prescription and manages the update and removal of stocks and the cashier manages the payment process.
 
 Pharmacy Management System has a login page with 3 fields username, password and select position. Username, password and position will be given by the admin. Only the registered users approved by admin can login to the page in order to maintain the safety and security of the stocks and payments in pharmacy. 
+
